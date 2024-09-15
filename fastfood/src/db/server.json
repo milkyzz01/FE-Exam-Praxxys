@@ -1,0 +1,44 @@
+{
+    "menu": [
+        {
+            "imgID": 1,
+            "imgPath": "popular-menu2.png",
+            "imgName": "Steak Fries Vegies"
+        },
+        {
+            "imgID": 2,
+            "imgPath": "popular-menu3.png",
+            "imgName": "Chicken Salad"
+        },
+        {
+            "imgID": 3,
+            "imgPath": "popular-menu5.png",
+            "imgName": "Sorvetes Primavera"
+        },
+        {
+            "imgID": 4,
+            "imgPath": "popular-menu1.png",
+            "imgName": "Burger"
+        },
+        {
+            "imgID": 5,
+            "imgPath": "popular-menu1.png",
+            "imgName": "Burger"
+        },
+        {
+            "imgID": 6,
+            "imgPath": "popular-menu1.png",
+            "imgName": "Burger"
+        },
+        {
+            "imgID": 7,
+            "imgPath": "popular-menu1.png",
+            "imgName": "Burger"
+        },
+        {
+            "imgID": 8,
+            "imgPath": "popular-menu1.png",
+            "imgName": "Burger"
+        }
+    ]
+}
